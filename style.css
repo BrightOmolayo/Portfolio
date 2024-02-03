@@ -16,6 +16,7 @@ header{
     position: relative;
     bottom: 240px;
     padding: 4%;
+    margin: ;
 }
 main{
     grid-area: 2/1/4/-1;
